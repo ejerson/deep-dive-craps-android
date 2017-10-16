@@ -35,6 +35,6 @@ public class MainActivity extends AppCompatActivity {
             .setText(String.format(getString(edu.cnm.deepdiv.games.craps.R.string.tally_message),
                 game.getWins(), game.getLosses(), 100.0 * game.getWins() / game.getPlays()));
       }
-    }) ;
+    });
   }
 }
