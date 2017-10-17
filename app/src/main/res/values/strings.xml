@@ -5,7 +5,7 @@
   <string name="play_toggle_on_title">Stop</string>
   <string name="reset_button_title">Reset</string>
   <string name="dice_roll_message">Before: %1$s; roll: %2$s; after: %3$s</string>
-  <string name="tally_message">Wins: %1$d; Losses: %2$d; Winning %%: %3$.2f</string>
+  <string name="tally_message">%1$s / %2$s%3$s</string>
   <string name="winning_percentage">\u0020= %1$.2f%%</string>
   <string name="roll_message">= %1$d</string>
   <string name="point_message">Point</string>
